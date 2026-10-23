@@ -4,7 +4,7 @@ Tools for Autodesk Revit, by RA Signum. **Beta: you need the beta key Renz gave 
 
 ## Download
 
-**[RA-Architectural-Setup-1.1.0.exe](https://github.com/renzel20017/ra-architectural-download/releases/latest/download/RA-Architectural-Setup-1.1.0.exe)** (about 5 MB) — or see [all releases](https://github.com/renzel20017/ra-architectural-download/releases).
+**[RA-Architectural-Setup-1.2.0.exe](https://github.com/renzel20017/ra-architectural-download/releases/latest/download/RA-Architectural-Setup-1.2.0.exe)** (about 5 MB) — or see [all releases](https://github.com/renzel20017/ra-architectural-download/releases).
 
 ## Install
 
